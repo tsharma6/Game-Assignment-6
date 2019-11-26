@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     var highestScoreAllData = ""
     @IBOutlet weak var highscore: UILabel!
     
-    var game  = "qwerty"
+    var game  = "Killspree"
     var scores:[Int] = []
     
     @IBOutlet weak var HighestScore: UILabel!
